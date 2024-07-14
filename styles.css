@@ -1,0 +1,28 @@
+.header{
+    background-color:rgb(200, 93, 93);
+    color: white;
+    text-align: center;
+    }
+    
+    body{
+        color: #000;
+        /* background-color: silver !important; */
+    }
+    
+    .details{
+        color:#000;
+        text-align:center;
+        font-size: 18px;
+    }
+    
+    .main-div{
+        font-size: 22px;
+        color: #000;
+    }
+    #isro {
+        font-size: 18px;
+    }
+    #search:disabled {
+        cursor: not-allowed;
+        opacity: 0.5;
+    }
